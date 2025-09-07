@@ -17,6 +17,7 @@ Objective: Identify victim demographics, crime types, state hotspots, and trends
 - 
 <img width="1140" height="852" alt="image" src="https://github.com/user-attachments/assets/7b0ecd70-e85c-42f8-be36-1ca3564bfd82" />
 GDS dashboard url: https://lookerstudio.google.com/reporting/79bed171-fa02-4abd-84e4-d7ccb044c752
+
 ### Key Insights
 - **Gender:** Crime affects all genders almost equally  
 - **Victim Age:** Seniors (80+) & Older Adults (51–65) most vulnerable  
